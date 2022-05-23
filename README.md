@@ -1,66 +1,67 @@
-# PROGRAMAS EN C++ DE ANGULO GADY
-#  INFORMACION DEL AUTOR
+# Programas en C++ de Angulo Gady
+#  Informacin del Autor
 AUTOR:ANGULO ALARCON GADY JAMILETH
 CORREO:gady.angulo.alarcon@utelvt.edu.ec
 ENLACE DEL VIDEO:https://youtu.be/-WhyphTquYM
-# PROGRAMAS
+# Programas
 # gadyangulo-compara.cpp
-# COMPARACION DE DOS NUMEROS
-# DESCRIPCION DEL PROBLEMA
+# Comparacion de dos numeros
+# Descripcion del problema
 Este programa en C++ nos permite comparar dos
 numeros y determinar si son igual o cual es mayor.
-# FUNCIONALIDAD
+# Funcionalidad
 	float AG_x,AG_y;
-# SALIDA
+# Salida
 SI(AG_x==AG_y) SON IGUALES
 SI(AG_x>AG_y) X ES EL MAYOR
 # gadyangulo-suma.cpp
-# SUMA DE VARIOS NUMEROS
-# DESCRIPCION DEL PROBLEMA
+# Suma de varios numeros
+# Descripcion del problema
 Este progrma en C++ nos permite realizar 
 la suma de varios numeros.
-# FUNCIONALIDAD
+# Funcionalidad
 	int AG_C=0,AG_a;
 	float AG_S=0,AG_Z;
- # SALIDA
+ # Salida
  AG_S==> LA SUMA TOTAL
  # gadyangulo-laedad.cpp
- # CALCULAR LA EDAD
- # DESCRIPCION DEL PROBLEMA
+ # Calcular la edad
+ # Descripcion del problema
  Este progrma en C++ nos permite realizar calcular 
  la edad de una persona.
-# FUNCIONALIDAD
+# Funcionalidad
 	int GA_dd,GA_mm,GA_yy,GA_dd1,GA_mm1,GA_yy1,GA_da,GA_ma,GA_ya;
-# SALIDA
+# Salida
 	GA_ya,GA_ma,GA_da ==>SU edad
    # gadyangulo-puntodeventa.cpp
-   # PUNTO DE VENTA
-   # DESCRIPCION DEL PROBLEMA
+   # Punto de venta
+   # Descripcion del problema
    Este programa en C++ nos permite realizar
-   y determinar la compra a pagr de varios 
+   y determinar la compra a pagar de varios 
    productos.
-   # FUNCIONALIDAD
+   # Funcionalidad
    	int GA_C=0,GA_P;
 	float GA_A=0,GA_x,GA_Tb,GA_PIVA,GA_Pdsc,GA_IVA=0.12,GA_dsc=0.30,GA_VT;
-  # SALIDA
+  # Salida
   GA_VT ==> EL VALOR TOTAL DE LA COMPRA
   # gadyangulo-cuentamoneda.cpp
-  # CONTADOR DE MONEDA
-  # DESCRIPCION DEL PROBLEMA
+  # Contador de moneda
+  # Descripcion del problema
   Este programa en C++ nos permite calcular el total
   de monedas ingresadas y la cantidad de su denominaciones.
-  # FUNCIONALIDAD
+  # Funcionalidad
   	int GA_n,GA_c=0,GA_c1=0,GA_c2=0;
 	float GA_x,GA_a=0,GA_a1=0,GA_a2=0;
-  # SALIDA
-AG_c,GA_a,GA_c1,GA_a1,GA_c2,GA_a2, ==>CANTIDAD TOTAL EN DINERO EN MONEDAS SEGUN SU DOMINACION  POR SEPARADOS.
-# INSTALACION
-# DESCRGAR EL REPOSITORIO
-1: CLONAR EL REPOSITORIO EN LA MAQUINA LOCAL
+  # Salidad
+AG_c,GA_a,GA_c1,GA_a1,GA_c2,GA_a2, ==>Cantidad total en dinero en monedas segun su dominacion por separdos. 
+# Instalacion
+# Descargar el repositorio
+1: Clonar el repositorio en la maquina Local
 https://github.com/Kadet35/grupo-programacion-.git
-2: INGRESAR AL REPROSITORIO
+
+2: Ingresar al repositorio
 Cd ACTIVIDAD-E2
-# COMPILAR Y EJECUTAR
+# Compilar y ejecutar
 g++ angulogady-suma.cpp -o angulogady-SumaN
 
 ./angulogady-SumaN
@@ -79,8 +80,5 @@ g++ angulogady-suma.cpp -o angulogady-SumaN
  
 
 
-
-
-_
 
 
