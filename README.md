@@ -64,9 +64,11 @@ AG_c,GA_a,GA_c1,GA_a1,GA_c2,GA_a2, ==>Cantidad total en dinero en monedas segun 
 # Instalacion
 # Descargar el repositorio
 1: Clonar el repositorio en la maquina Local
+
 https://github.com/Kadet35/grupo-programacion-.git
 
 2: Ingresar al repositorio
+
 Cd ACTIVIDAD-E2
 # Compilar y ejecutar
 g++ angulogady-suma.cpp -o angulogady-SumaN
