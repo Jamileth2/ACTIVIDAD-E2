@@ -1,5 +1,5 @@
 # Programas en C++ de Angulo Gady
-#  Informacin del Autor
+#  Informacion del Autor
 
 AUTOR:
 Angulo Alarcon Gady Jamileth
