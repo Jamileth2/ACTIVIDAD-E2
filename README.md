@@ -1,8 +1,11 @@
 # Programas en C++ de Angulo Gady
 #  Informacin del Autor
-AUTOR:ANGULO ALARCON GADY JAMILETH
-CORREO:gady.angulo.alarcon@utelvt.edu.ec
-ENLACE DEL VIDEO:https://youtu.be/-WhyphTquYM
+AUTOR:
+ANGULO ALARCON GADY JAMILETH
+CORREO:
+gady.angulo.alarcon@utelvt.edu.ec
+ENLACE DEL VIDEO:
+https://youtu.be/-WhyphTquYM
 # Programas
 # gadyangulo-compara.cpp
 # Comparacion de dos numeros
