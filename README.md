@@ -1,23 +1,27 @@
 # Programas en C++ de Angulo Gady
 #  Informacion del Autor
 
-AUTOR:
+# AUTOR:
 
 Angulo Alarcon Gady Jamileth
 
-CORREO:
+# CORREO:
 
 gady.angulo.alarcon@utelvt.edu.ec
 
-ENLACE DEL VIDEO:
+# ENLACE DEL VIDEO:
 
 https://youtu.be/-WhyphTquYM
 
 # Programas
 gadyangulo-compara.cpp
+
 gadyangulo-cuentamonedas.cpp
+
 gadyngulo-puntodeventa.cpp
+
 angulogady-suma.cpp
+
 angulogady-laedad.cpp
 
 # Comparacion de dos numeros
