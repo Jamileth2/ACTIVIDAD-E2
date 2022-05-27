@@ -2,16 +2,24 @@
 #  Informacion del Autor
 
 AUTOR:
+
 Angulo Alarcon Gady Jamileth
 
 CORREO:
+
 gady.angulo.alarcon@utelvt.edu.ec
 
 ENLACE DEL VIDEO:
+
 https://youtu.be/-WhyphTquYM
 
 # Programas
-# gadyangulo-compara.cpp
+gadyangulo-compara.cpp
+gadyangulo-cuentamonedas.cpp
+gadyngulo-puntodeventa.cpp
+angulogady-suma.cpp
+angulogady-laedad.cpp
+
 # Comparacion de dos numeros
 # Descripcion del problema
 Este programa en C++ nos permite comparar dos
