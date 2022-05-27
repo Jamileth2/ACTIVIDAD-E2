@@ -166,7 +166,7 @@ Dentro de la aplicacion F-Droid
 
 4.-Clonar el Repositorio en la terminal
 
- git clone https://github.com/Jamileth2/ACTIVIDAD-E2
+git clone https://github.com/Jamileth2/ACTIVIDAD-E2
  
  5.- Acceder al Repositorio
 
