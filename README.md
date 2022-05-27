@@ -16,7 +16,7 @@ https://youtu.be/-WhyphTquYM
 # Programas
 gadyangulo-compara.cpp
 
-gadyangulo-cuentamonedas.cpp
+gadyangulo-cuentamoneda.cpp
 
 gadyngulo-puntodeventa.cpp
 
@@ -30,7 +30,7 @@ angulogady-laedad.cpp
 Este programa en C++ nos permite comparar dos
 numeros y determinar si son igual o cual es mayor.
 
-# gadyangulo-cuentamonedas.cpp
+# gadyangulo-cuentamoneda.cpp
 Este programa en C++ permite calcular el total 
 de monedas ingresadas y la cantidad de sus
 dominaciones.
@@ -41,7 +41,7 @@ de las compras de  varios productos,contabilizando
 su valor con iva y realizando un descuento especial
 a las personas.
 
-# gadyangulo-suma.cpp
+# gadyangulo-sumaN.cpp
 Este progrma en C++ nos permite realizar 
 la suma de varios numeros y tiene como finalidad
 que el usuario ingrese valores y asi le permita calcular 
@@ -64,7 +64,7 @@ la suma de varios numeros.
 	
 	cin>>AG_y;
 	
-# gadyangulo-cuentamonedas.cpp
+# gadyangulo-cuentamoneda.cpp
 	int GA_n,GA_c=0,GA_c1=0,GA_c2=0;
 	
 	float GA_x,GA_a=0,GA_a1=0,GA_a2=0;
@@ -163,6 +163,7 @@ Dentro de la aplicacion F-Droid
 =>apt update
 
 =>apt upgrade
+
 4.-Clonar el Repositorio en la terminal
 
  git clone https://github.com/Jamileth2/ACTIVIDAD-E2
@@ -202,6 +203,7 @@ angulogady-Cuentamoneda
 angulogady-Cuentamoneda.cpp
 
 angulogady-Cuentamoneda.jpg
+
 # Compilacion de un programa
 1.- Ingresar al Repositorio
 
